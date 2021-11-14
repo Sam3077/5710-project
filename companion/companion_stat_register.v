@@ -10,7 +10,7 @@ module companion_stat_register(clk, tick, value, refresh, rst);
 	
 	// delaying the refresh signal half a clock cycle gives us time
 	// to set the new next_val variable.
-	buffer b(.in(refresh), .out(delayed_refresh));
+	buffer b(.in(refresh), .out(delayed_refresh), .clk(clk));
 	
 	register #(.RESET_VALUE(MAX_VALUE)) stat_reg(
 		.d_in(next_val),
