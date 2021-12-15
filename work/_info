@@ -1,0 +1,355 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/u0669785/design_compiler/HDL/RTL
+T_opt
+!s110 1639529890
+VjFmh8[z03gWIn6iZ3PbJI1
+04 8 4 work tb_watch fast 0
+=1-18c04d8e3084-61b93da2-49399-1e148d
+Z1 o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.6e_2;65
+R0
+T_opt1
+!s110 1639557011
+Vk5C35SNCX7iUG=WP<nXiB0
+04 13 4 work tb_top_system fast 0
+=1-18c04d8e3086-61b9a792-f3217-3b1a28
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1639523031
+VMI@1`L40f@2idHX7I<ema0
+04 16 4 work tb_clock_divider fast 0
+=1-18c04d8e3084-61b922d6-dfd28-1daa67
+R1
+R2
+n@_opt2
+R3
+R0
+vbuffer
+Z4 !s110 1639558949
+!i10b 1
+!s100 7SZM7DaN=VNL2b6Df2ao^3
+I0VDj0IkzYXPfk8o1D4YWj3
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 d/home/u0669785/synopsis/HDL/RTL
+w1639536099
+8/home/u0669785/synopsis/HDL/RTL/common/buffer.v
+F/home/u0669785/synopsis/HDL/RTL/common/buffer.v
+L0 1
+Z7 OL;L;10.6e_2;65
+r1
+!s85 0
+31
+Z8 !s108 1639558949.000000
+!s107 /home/u0669785/synopsis/HDL/RTL/common/buffer.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/u0669785/synopsis/HDL/RTL/common/buffer.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vclock_divider
+R4
+!i10b 1
+!s100 [6K1V7jPUY4CdgeeWaMkz1
+IJOaL>UFKM^KKNO9F3>>=]2
+R5
+R6
+w1639556920
+8/home/u0669785/synopsis/HDL/RTL/common/clock_divider.v
+F/home/u0669785/synopsis/HDL/RTL/common/clock_divider.v
+L0 6
+R7
+r1
+!s85 0
+31
+R8
+!s107 /home/u0669785/synopsis/HDL/RTL/common/clock_divider.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/u0669785/synopsis/HDL/RTL/common/clock_divider.v|
+!i113 0
+R9
+R2
+vcompanion_fsm
+R4
+!i10b 1
+!s100 NeDkLd9V_@K8U@3<e`e8C1
+I<^bD`D_icH`b=2Q250`nO3
+R5
+R6
+w1639551606
+8/home/u0669785/synopsis/HDL/RTL/companion/companion_fsm.v
+F/home/u0669785/synopsis/HDL/RTL/companion/companion_fsm.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+!s107 /home/u0669785/synopsis/HDL/RTL/companion/companion_fsm.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/u0669785/synopsis/HDL/RTL/companion/companion_fsm.v|
+!i113 0
+R9
+R2
+vcompanion_interface
+R4
+!i10b 1
+!s100 EnWkcO;aIU8Qh<iFTWh981
+IEf>87Sf_Oz56C`@FbFV2@3
+R5
+R6
+w1639517488
+8/home/u0669785/synopsis/HDL/RTL/companion/companion_interface.v
+F/home/u0669785/synopsis/HDL/RTL/companion/companion_interface.v
+L0 5
+R7
+r1
+!s85 0
+31
+R8
+!s107 /home/u0669785/synopsis/HDL/RTL/companion/companion_interface.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/u0669785/synopsis/HDL/RTL/companion/companion_interface.v|
+!i113 0
+R9
+R2
+vcompanion_stat_register
+R4
+!i10b 1
+!s100 TiJIT3]L]g11]jReU5i2[1
+I;SAnK2dbzz>K;=1bBz3KU1
+R5
+R6
+w1639546539
+8/home/u0669785/synopsis/HDL/RTL/companion/companion_stat_register.v
+F/home/u0669785/synopsis/HDL/RTL/companion/companion_stat_register.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+!s107 /home/u0669785/synopsis/HDL/RTL/companion/companion_stat_register.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/u0669785/synopsis/HDL/RTL/companion/companion_stat_register.v|
+!i113 0
+R9
+R2
+vcompanion_status
+R4
+!i10b 1
+!s100 5hnY[1VMCe5f4@m`dd@;a3
+I68:FdonmiY2JbF3Y:Q9BZ2
+R5
+R6
+Z10 w1639446695
+8/home/u0669785/synopsis/HDL/RTL/companion/companion_status.v
+F/home/u0669785/synopsis/HDL/RTL/companion/companion_status.v
+L0 2
+R7
+r1
+!s85 0
+31
+R8
+!s107 /home/u0669785/synopsis/HDL/RTL/companion/companion_status.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/u0669785/synopsis/HDL/RTL/companion/companion_status.v|
+!i113 0
+R9
+R2
+vnegative_register
+R4
+!i10b 1
+!s100 EIBD7JznKmN@RzcFeLQS92
+In9?P19M<CPlJ]L>f?]jL81
+R5
+R6
+R10
+8/home/u0669785/synopsis/HDL/RTL/common/negative_register.v
+F/home/u0669785/synopsis/HDL/RTL/common/negative_register.v
+L0 3
+R7
+r1
+!s85 0
+31
+R8
+!s107 /home/u0669785/synopsis/HDL/RTL/common/negative_register.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/u0669785/synopsis/HDL/RTL/common/negative_register.v|
+!i113 0
+R9
+R2
+vregister
+R4
+!i10b 1
+!s100 E4FC018:5MJ6[9GoMLQAU0
+ION[H[zeB]c4TZ[fo6D:_43
+R5
+R6
+R10
+8/home/u0669785/synopsis/HDL/RTL/common/register.v
+F/home/u0669785/synopsis/HDL/RTL/common/register.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+!s107 /home/u0669785/synopsis/HDL/RTL/common/register.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/u0669785/synopsis/HDL/RTL/common/register.v|
+!i113 0
+R9
+R2
+vtb_clock_divider
+R4
+!i10b 1
+!s100 nzfFh@Bm]3o_HelG9fESC0
+IM1;^gITMYhlB2NIi0n:iP1
+R5
+R6
+w1639532295
+8/home/u0669785/synopsis/HDL/RTL/testbenches/tb_clock_divider.v
+F/home/u0669785/synopsis/HDL/RTL/testbenches/tb_clock_divider.v
+L0 3
+R7
+r1
+!s85 0
+31
+R8
+!s107 /home/u0669785/synopsis/HDL/RTL/testbenches/tb_clock_divider.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/u0669785/synopsis/HDL/RTL/testbenches/tb_clock_divider.v|
+!i113 0
+R9
+R2
+vtb_companion_interface
+R4
+!i10b 1
+!s100 9J43Gnbhlb;5Zg7d_A4c72
+I3j0IEk8H49Zi?Vb5MW<jI3
+R5
+R6
+R10
+8/home/u0669785/synopsis/HDL/RTL/testbenches/tb_companion_interface.v
+F/home/u0669785/synopsis/HDL/RTL/testbenches/tb_companion_interface.v
+L0 3
+R7
+r1
+!s85 0
+31
+R8
+!s107 /home/u0669785/synopsis/HDL/RTL/testbenches/tb_companion_interface.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/u0669785/synopsis/HDL/RTL/testbenches/tb_companion_interface.v|
+!i113 0
+R9
+R2
+vtb_companion_status
+Z11 !s110 1639558950
+!i10b 1
+!s100 Q??bYfjZJi14g<dNNQdMN2
+IFFODD9NJ5je[nTz=d@Q@_3
+R5
+R6
+R10
+8/home/u0669785/synopsis/HDL/RTL/testbenches/tb_companion_status.v
+F/home/u0669785/synopsis/HDL/RTL/testbenches/tb_companion_status.v
+L0 3
+R7
+r1
+!s85 0
+31
+R8
+!s107 /home/u0669785/synopsis/HDL/RTL/testbenches/tb_companion_status.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/u0669785/synopsis/HDL/RTL/testbenches/tb_companion_status.v|
+!i113 0
+R9
+R2
+vtb_top_system
+R11
+!i10b 1
+!s100 >aFE@cdXb<j=;MAAhf==:1
+IL`>g3>TPVgbBzCYoI9^9T0
+R5
+R6
+w1639551738
+8/home/u0669785/synopsis/HDL/RTL/tb_top_system.v
+F/home/u0669785/synopsis/HDL/RTL/tb_top_system.v
+L0 3
+R7
+r1
+!s85 0
+31
+!s108 1639558950.000000
+!s107 /home/u0669785/synopsis/HDL/RTL/tb_top_system.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/u0669785/synopsis/HDL/RTL/tb_top_system.v|
+!i113 0
+R9
+R2
+vtb_watch
+Z12 !s110 1639558948
+!i10b 1
+!s100 oW?]8]>3V^LKaD9W188a;3
+I3T?MC^AmhN`lXU1ZL8bYP2
+R5
+R6
+R10
+8/home/u0669785/synopsis/HDL/RTL/tb_watch.v
+F/home/u0669785/synopsis/HDL/RTL/tb_watch.v
+L0 2
+R7
+r1
+!s85 0
+31
+Z13 !s108 1639558948.000000
+!s107 /home/u0669785/synopsis/HDL/RTL/tb_watch.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/u0669785/synopsis/HDL/RTL/tb_watch.v|
+!i113 0
+R9
+R2
+vtop_system
+R12
+!i10b 1
+!s100 7P=V[NNm2_aBNQV@B?3e83
+IY>z5IBI>M=UilBGPA9WKC0
+R5
+R6
+w1639549502
+8/home/u0669785/synopsis/HDL/RTL/top_system.v
+F/home/u0669785/synopsis/HDL/RTL/top_system.v
+L0 1
+R7
+r1
+!s85 0
+31
+R13
+!s107 /home/u0669785/synopsis/HDL/RTL/top_system.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/u0669785/synopsis/HDL/RTL/top_system.v|
+!i113 0
+R9
+R2
+vwatch
+R12
+!i10b 1
+!s100 V[1Pin1XcioXXnFWW`ScP2
+IE62C_E6i6G^n2:mhX<oY21
+R5
+R6
+w1639551837
+8/home/u0669785/synopsis/HDL/RTL/watch.v
+F/home/u0669785/synopsis/HDL/RTL/watch.v
+L0 1
+R7
+r1
+!s85 0
+31
+R13
+!s107 /home/u0669785/synopsis/HDL/RTL/watch.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/home/u0669785/synopsis/HDL/RTL/watch.v|
+!i113 0
+R9
+R2

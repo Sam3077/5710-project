@@ -1,0 +1,106 @@
+/home/u0669785/synopsis/HDL/RTL/testbenches/tb_companion_status.v {1 {vlog -work work -vopt -stats=none /home/u0669785/synopsis/HDL/RTL/testbenches/tb_companion_status.v
+QuestaSim-64 vlog 10.6e_2 Compiler 2018.11 Nov 20 2018
+-- Compiling module tb_companion_status
+
+Top level modules:
+	tb_companion_status
+
+} {} {}} /home/u0669785/synopsis/HDL/RTL/tb_top_system.v {1 {vlog -work work -vopt -stats=none /home/u0669785/synopsis/HDL/RTL/tb_top_system.v
+QuestaSim-64 vlog 10.6e_2 Compiler 2018.11 Nov 20 2018
+-- Compiling module tb_top_system
+
+Top level modules:
+	tb_top_system
+
+} {} {}} /home/u0669785/synopsis/HDL/RTL/companion/companion_fsm.v {1 {vlog -work work -vopt -stats=none /home/u0669785/synopsis/HDL/RTL/companion/companion_fsm.v
+QuestaSim-64 vlog 10.6e_2 Compiler 2018.11 Nov 20 2018
+-- Compiling module companion_fsm
+
+Top level modules:
+	companion_fsm
+
+} {} {}} /home/u0669785/synopsis/HDL/RTL/common/register.v {1 {vlog -work work -vopt -stats=none /home/u0669785/synopsis/HDL/RTL/common/register.v
+QuestaSim-64 vlog 10.6e_2 Compiler 2018.11 Nov 20 2018
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} /home/u0669785/synopsis/HDL/RTL/testbenches/tb_clock_divider.v {1 {vlog -work work -vopt -stats=none /home/u0669785/synopsis/HDL/RTL/testbenches/tb_clock_divider.v
+QuestaSim-64 vlog 10.6e_2 Compiler 2018.11 Nov 20 2018
+-- Compiling module tb_clock_divider
+
+Top level modules:
+	tb_clock_divider
+
+} {} {}} /home/u0669785/synopsis/HDL/RTL/watch.v {1 {vlog -work work -vopt -stats=none /home/u0669785/synopsis/HDL/RTL/watch.v
+QuestaSim-64 vlog 10.6e_2 Compiler 2018.11 Nov 20 2018
+-- Compiling module watch
+
+Top level modules:
+	watch
+
+} {} {}} /home/u0669785/synopsis/HDL/RTL/top_system.v {1 {vlog -work work -vopt -stats=none /home/u0669785/synopsis/HDL/RTL/top_system.v
+QuestaSim-64 vlog 10.6e_2 Compiler 2018.11 Nov 20 2018
+-- Compiling module top_system
+
+Top level modules:
+	top_system
+
+} {} {}} /home/u0669785/synopsis/HDL/RTL/companion/companion_interface.v {1 {vlog -work work -vopt -stats=none /home/u0669785/synopsis/HDL/RTL/companion/companion_interface.v
+QuestaSim-64 vlog 10.6e_2 Compiler 2018.11 Nov 20 2018
+-- Compiling module companion_interface
+
+Top level modules:
+	companion_interface
+
+} {} {}} /home/u0669785/synopsis/HDL/RTL/testbenches/tb_companion_interface.v {1 {vlog -work work -vopt -stats=none /home/u0669785/synopsis/HDL/RTL/testbenches/tb_companion_interface.v
+QuestaSim-64 vlog 10.6e_2 Compiler 2018.11 Nov 20 2018
+-- Compiling module tb_companion_interface
+
+Top level modules:
+	tb_companion_interface
+
+} {} {}} /home/u0669785/synopsis/HDL/RTL/common/clock_divider.v {1 {vlog -work work -vopt -stats=none /home/u0669785/synopsis/HDL/RTL/common/clock_divider.v
+QuestaSim-64 vlog 10.6e_2 Compiler 2018.11 Nov 20 2018
+-- Compiling module clock_divider
+
+Top level modules:
+	clock_divider
+
+} {} {}} /home/u0669785/synopsis/HDL/RTL/common/buffer.v {1 {vlog -work work -vopt -stats=none /home/u0669785/synopsis/HDL/RTL/common/buffer.v
+QuestaSim-64 vlog 10.6e_2 Compiler 2018.11 Nov 20 2018
+-- Compiling module buffer
+
+Top level modules:
+	buffer
+
+} {} {}} /home/u0669785/synopsis/HDL/RTL/companion/companion_status.v {1 {vlog -work work -vopt -stats=none /home/u0669785/synopsis/HDL/RTL/companion/companion_status.v
+QuestaSim-64 vlog 10.6e_2 Compiler 2018.11 Nov 20 2018
+-- Compiling module companion_status
+
+Top level modules:
+	companion_status
+
+} {} {}} /home/u0669785/synopsis/HDL/RTL/tb_watch.v {1 {vlog -work work -vopt -stats=none /home/u0669785/synopsis/HDL/RTL/tb_watch.v
+QuestaSim-64 vlog 10.6e_2 Compiler 2018.11 Nov 20 2018
+-- Compiling module tb_watch
+
+Top level modules:
+	tb_watch
+
+} {} {}} /home/u0669785/synopsis/HDL/RTL/companion/companion_stat_register.v {1 {vlog -work work -vopt -stats=none /home/u0669785/synopsis/HDL/RTL/companion/companion_stat_register.v
+QuestaSim-64 vlog 10.6e_2 Compiler 2018.11 Nov 20 2018
+-- Compiling module companion_stat_register
+
+Top level modules:
+	companion_stat_register
+
+} {} {}} /home/u0669785/synopsis/HDL/RTL/common/negative_register.v {1 {vlog -work work -vopt -stats=none /home/u0669785/synopsis/HDL/RTL/common/negative_register.v
+QuestaSim-64 vlog 10.6e_2 Compiler 2018.11 Nov 20 2018
+-- Compiling module negative_register
+
+Top level modules:
+	negative_register
+
+} {} {}}
